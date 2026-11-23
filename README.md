@@ -10,7 +10,7 @@ use to find and read public web pages.
 - It does not log in, fill in forms, or fetch pages behind a paywall.
 
 ## How to recognise it
-User agent: `EtherBot/0.1 (+https://github.com/MalyanDon/etherbot; CONTACT_EMAIL)`
+User agent: `EtherBot/0.1 (+https://github.com/MalyanDon/etherbot; abhishekmalyan1@gmail.com)`
 
 ## How it behaves
 - It reads and obeys robots.txt before every fetch.
